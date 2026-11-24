@@ -221,3 +221,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private creator assets and credentials
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+private/
+recordings/
+exports/
+script.txt
+*.srt
+*.mp3
+*.mp4
+*.wav
